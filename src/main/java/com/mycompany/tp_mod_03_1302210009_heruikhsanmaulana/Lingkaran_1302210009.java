@@ -16,7 +16,7 @@ public class Lingkaran_1302210009 {
     public double jari;
 
     public void printWarna_1302210009() {
-        System.out.println("Warna lingkaran adalah " + warna);
+        System.out.println("Warnanya yaitu " + warna);
     }
 
     public void setWarna_1302210009(String WarnaLingkaran) {
