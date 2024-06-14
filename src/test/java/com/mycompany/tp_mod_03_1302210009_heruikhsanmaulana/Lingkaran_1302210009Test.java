@@ -27,7 +27,7 @@ public class Lingkaran_1302210009Test {
     public void testCalculateKeliling() {
         Lingkaran_1302210009 L = new Lingkaran_1302210009();
         L.jari = 7;
-        double expectedKeliling = (22.0 / 7.0) * 2.0 * L.jari;
+        double expectedKeliling = (22,0 / 7,0) * 2.0 * L.jari;
         assertEquals(expectedKeliling, L.calculateKeliling(), 1e-9);
     }
 
